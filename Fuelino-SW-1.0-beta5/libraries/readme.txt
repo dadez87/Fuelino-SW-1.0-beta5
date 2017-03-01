@@ -1,0 +1,1 @@
+Extract this ZIP file inside "Documents/Arduino/libraries" folder
